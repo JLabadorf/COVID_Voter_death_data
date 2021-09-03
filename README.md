@@ -1,4 +1,4 @@
-# COVID_Voter_death_data
+# COVID Voter Death Data
 
 This data was collected based on a question from [r/data](https://www.reddit.com/r/data/comments/phao3q/republicans_vs_covid/). 
 
